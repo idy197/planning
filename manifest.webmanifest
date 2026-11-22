@@ -1,0 +1,13 @@
+{
+  "name": "Planning",
+  "short_name": "Planning",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eceef3",
+  "theme_color": "#1d3fbf",
+  "lang": "fr",
+  "icons": [
+    {"src": "icon-180.png", "sizes": "180x180", "type": "image/png"}
+  ]
+}
